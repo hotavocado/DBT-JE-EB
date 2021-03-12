@@ -133,13 +133,13 @@
                 "isVis": true
             },
             {
-                "variableName": "postive_thoughts",
-                "isAbout": "postive_thoughts",
+                "variableName": "positive_thoughts",
+                "isAbout": "positive_thoughts",
                 "isVis": true
             },
             {
-                "variableName": "postive_thoughts_details",
-                "isAbout": "postive_thoughts_details",
+                "variableName": "positive_thoughts_details",
+                "isAbout": "positive_thoughts_details",
                 "isVis": "positive_thoughts == 1"
             },
             {
@@ -203,8 +203,8 @@
             "hours_slept",
             "waketime",
             "hours_homework",
-            "postive_thoughts",
-            "postive_thoughts_details",
+            "positive_thoughts",
+            "positive_thoughts_details",
             "dbt_skills_instructions",
             "mindfulness_skills",
             "interpersonal_skills",

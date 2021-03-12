@@ -98,12 +98,12 @@
             "@id": "dbt_daily:hours_homework",
             "@type": "@id"
         },
-        "postive_thoughts": {
-            "@id": "dbt_daily:postive_thoughts",
+        "positive_thoughts": {
+            "@id": "dbt_daily:positive_thoughts",
             "@type": "@id"
         },
-        "postive_thoughts_details": {
-            "@id": "dbt_daily:postive_thoughts_details",
+        "positive_thoughts_details": {
+            "@id": "dbt_daily:positive_thoughts_details",
             "@type": "@id"
         },
         "dbt_skills_instructions": {

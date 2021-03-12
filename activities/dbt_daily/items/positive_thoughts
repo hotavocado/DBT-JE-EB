@@ -3,7 +3,7 @@
         "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
     ],
     "@type": "reproschema:Field",
-    "@id": "postive_thoughts",
+    "@id": "positive_thoughts",
     "ui": {
         "inputType": "radio",
         "allow": [
